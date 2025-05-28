@@ -1,5 +1,6 @@
 from compte_manager import gestion_comptes
 from auto_task import auto_task_main
+from auto_connect import *
 
 def main():
     print("==== TS Instagram Automation (instagram_private_api) ====")
