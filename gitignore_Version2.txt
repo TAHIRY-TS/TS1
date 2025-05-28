@@ -1,0 +1,6 @@
+__pycache__/
+sessions/
+logs/
+selected_user/
+*.pyc
+.DS_Store
